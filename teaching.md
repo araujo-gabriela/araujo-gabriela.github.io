@@ -4,7 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Graduate courses 
+## Graduate courses
+
+# Barcelona School of Economics 
 
 Master Project Guidance (2024, 2025) TA for Professors [Lídia Farré](https://sites.google.com/site/lidiafarre78/home), [Ada Ferrer-i-Carbonell](https://sites.google.com/view/adaferrer-i-carbonell) and [Joan Llull](https://joanllull.github.io/index.htm)
 
@@ -16,4 +18,6 @@ Reinforcement (2024) Instructor for Professors [Lídia Farré](https://sites.goo
 
 Finance (2024) TA for Professor [Albert Marcet](https://scholar.google.es/citations?user=8MNnGfUAAAAJ&hl=en)
 
-PhD Program - Money and Banking (2023, 2024) TA for Professor [Hugo Rodríguez Mendizábal](https://sites.google.com/barcelonagse.eu/hugorodriguezmendizabal/home)
+# International Doctorate in Economics Analysis (IDEA) at the Universitat Autonoma de Barcelona 
+
+IDEA PhD Program - Money and Banking (2023, 2024) TA for Professor [Hugo Rodríguez Mendizábal](https://sites.google.com/barcelonagse.eu/hugorodriguezmendizabal/home)

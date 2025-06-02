@@ -4,12 +4,15 @@ title: CV
 permalink: /cv/
 ---
 
-You can download my CV [here](/assets/Gabriela-AraujoCV.pdf).
+You can download my CV [here](https://araujo-gabriela.github.io/Gabriela-AraujoCV.pdf).
 
-<br>
+<br><br>
 
-<iframe src="../Gabriela-AraujoCV.pdf" width="100%" height="800px" style="border: none;">
-  This browser does not support PDFs. Please download the PDF to view it: 
-  <a href="../Gabriela-AraujoCV.pdf">Download PDF</a>.
+<iframe 
+  src="https://araujo-gabriela.github.io/Gabriela-AraujoCV.pdf" 
+  width="100%" 
+  height="800px" 
+  style="border: none;">
+  This browser does not support embedded PDFs. You can download it 
+  <a href="https://araujo-gabriela.github.io/Gabriela-AraujoCV.pdf">here</a>.
 </iframe>
-

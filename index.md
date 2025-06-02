@@ -5,7 +5,7 @@ title:
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img src="/assets/gabriela-photo.jpeg" alt="Gabriela Araujo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+  <img src="/assets/gabriela-photo.jpeg" alt="Gabriela Araujo" style="width: 280px; height: 280px; border-radius: 50%; object-fit: cover;">
 
   <div>
     <p>I am a PhD student in the IDEA Graduate Program at Universitat Autònoma de Barcelona and Barcelona School of Economics.</p>

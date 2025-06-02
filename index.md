@@ -3,10 +3,17 @@ layout: home
 title: Gabriela Araujo
 ---
 
-I am a PhD student at the Universitat Autonoma de Barcelona and Barcelona School of Economics. 
+<div style="display: flex; align-items: center; gap: 20px;">
 
-My research interests include macroeconomics, monetary policy and applied microeconometrics. 
+  <img src="/assets/gabriela-photo.jpeg" alt="Gabriela Araujo" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
 
-Contact information:
+  <div>
+    <p>I am a PhD student in the IDEA Graduate Program at Universitat Autònoma de Barcelona and Barcelona School of Economics.</p>
 
-**Email:** gabriela.araujo@barcelonagse.eu
+    <p>My research interests include macroeconomics, monetary policy and applied microeconometrics.</p>
+
+    <p><strong>If you would like to get in touch:</strong><br>
+    <strong>Email:</strong> <a href="mailto:gabriela.araujo@barcelonagse.eu">gabriela.araujo@barcelonagse.eu</a></p>
+  </div>
+
+</div>

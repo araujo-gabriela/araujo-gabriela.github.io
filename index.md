@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Gabriela Araujo
+title: About
 ---
 
 <div style="display: flex; align-items: center; gap: 20px;">

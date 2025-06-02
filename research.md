@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Work in Progress
 
-#### What are the effects of excess reserves on the transmission of monetary policy 
+#### The effects of excess reserves on the transmission of monetary policy 
 Draft available upon request.
 
 #### Endogenous Bank Risks and the Lending Channel of Monetary Policy 

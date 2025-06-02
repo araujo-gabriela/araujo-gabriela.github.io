@@ -1,0 +1,27 @@
+title: Gabriela Araujo
+description: Personal Academic Website
+remote_theme: daattali/awesome-jekyll-theme
+baseurl: ""  # Must be blank for user/organization site
+logo: /assets/gabriela-photo.jpeg  # You can upload your photo here later
+
+# Navigation menu
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Teaching
+    url: /teaching/
+  - title: CV
+    url: /cv/
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Contact info (optional)
+contact_channels_section: true
+contact_channels:
+  email: "gabriela.araujo@barcelonagse.eu"
+  github: "https://github.com/araujo-gabriela"

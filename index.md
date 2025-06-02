@@ -8,7 +8,7 @@ title:
   <img src="/assets/gabriela-photo.jpeg" alt="Gabriela Araujo" style="width: 280px; height: 280px; border-radius: 50%; object-fit: cover;">
 
   <div>
-    <p>I am a PhD student in the IDEA Graduate Program at Universitat Autònoma de Barcelona and Barcelona School of Economics.</p>
+    <p>I am a PhD student in the International Doctorate in Economic Analysis Graduate Program at the Universitat Autònoma de Barcelona and Barcelona School of Economics.</p>
 
     <p>My research interests include macroeconomics, monetary policy and applied microeconometrics.</p>
 

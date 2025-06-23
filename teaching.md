@@ -6,20 +6,31 @@ permalink: /teaching/
 
 ## Graduate courses
 
-# Barcelona School of Economics 
+Completed and scheduled courses. 
 
-Summer School - Geospatial Tools for Development: Data and Inference (2025) Practical Instructor for Professor [Andre Groeger](https://sites.google.com/site/andregroeger/)
+# Instructor
 
-Master Project Guidance (2024, 2025) TA for Professors [Lídia Farré](https://sites.google.com/site/lidiafarre78/home), [Ada Ferrer-i-Carbonell](https://sites.google.com/view/adaferrer-i-carbonell) and [Joan Llull](https://joanllull.github.io/index.htm)
+Mathemathics Brush Up (2024, 2025) Instructor, BSE (Master)
 
-Economics of Geography and Climate Change (2025) TA for Professor [Andre Groeger](https://sites.google.com/site/andregroeger/)
+Reinforcement (2024, 2025) Instructor for Professors [Lídia Farré](https://sites.google.com/site/lidiafarre78/home), [Ada Ferrer-i-Carbonell](https://sites.google.com/view/adaferrer-i-carbonell) and [Joan Llull](https://joanllull.github.io/index.htm), BSE (Master)
 
-Mathemathics Brush Up (2024) Instructor
+Geospatial Tools for Development: Data and Inference (2025) Practical Instructor for Professor [Andre Groeger](https://sites.google.com/site/andregroeger/), BSE (Summer School)
 
-Reinforcement (2024) Instructor for Professors [Lídia Farré](https://sites.google.com/site/lidiafarre78/home), [Ada Ferrer-i-Carbonell](https://sites.google.com/view/adaferrer-i-carbonell) and [Joan Llull](https://joanllull.github.io/index.htm)
+Stata (2025) Instructor, Universitat Autonoma de Barcelona (International Doctorate in Economic Analysis; PhD)
 
-Finance (2024) TA for Professor [Albert Marcet](https://scholar.google.es/citations?user=8MNnGfUAAAAJ&hl=en)
+Python (2025) Instructor, Universitat Autonoma de Barcelona (International Doctorate in Economic Analysis; PhD)
 
-# International Doctorate in Economics Analysis (IDEA) at the Universitat Autonoma de Barcelona 
+Matlab (2026) Instructor, Universitat Autonoma de Barcelona (International Doctorate in Economic Analysis; PhD)
 
-IDEA PhD Program - Money and Banking (2023, 2024) TA for Professor [Hugo Rodríguez Mendizábal](https://sites.google.com/barcelonagse.eu/hugorodriguezmendizabal/home)
+
+# Teaching Assistant (TA)
+
+Money and Banking (2023, 2024) TA for Professor [Hugo Rodríguez Mendizábal](https://sites.google.com/barcelonagse.eu/hugorodriguezmendizabal/home), Universitat Autonoma de Barcelona (International Doctorate in Economic Analysis; PhD)
+
+Master Project Guidance (2024, 2025) TA for Professors [Lídia Farré](https://sites.google.com/site/lidiafarre78/home), [Ada Ferrer-i-Carbonell](https://sites.google.com/view/adaferrer-i-carbonell) and [Joan Llull](https://joanllull.github.io/index.htm), BSE
+
+Finance (2024) TA for Professor [Albert Marcet](https://scholar.google.es/citations?user=8MNnGfUAAAAJ&hl=en), BSE (Master)
+
+Economics of Geography and Climate Change (2025) TA for Professor [Andre Groeger](https://sites.google.com/site/andregroeger/), BSE (Master)
+
+

@@ -11,7 +11,7 @@ Draft available upon request.
 #### Endogenous Bank Risks and the Lending Channel of Monetary Policy 
 with [David Rivero](https://sites.google.com/site/davidriveroleiva/home) and [Hugo Rodriguez Mendizabal](https://sites.google.com/barcelonagse.eu/hugorodriguezmendizabal/home) 
 
-Draft available upon request. 
+[Draft](/assets/files/EBRLCMP.pdf). 
 
 #### Migration, Culture, and Long-Run Development: Evidence from Brazil’s German Colonies
 Draft available upon request.  

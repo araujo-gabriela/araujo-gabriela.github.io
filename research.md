@@ -12,7 +12,15 @@ Draft available upon request.
 #### Endogenous Bank Risks and the Lending Channel of Monetary Policy 
 with [David Rivero](https://sites.google.com/site/davidriveroleiva/home) and [Hugo Rodriguez Mendizabal](https://sites.google.com/barcelonagse.eu/hugorodriguezmendizabal/home) 
 
-Draft available upon request. 
+We develop a general equilibrium banking model in which liquidity, credit and solvency
+risks are endogenously connected to banks’ lending decisions. In this framework,
+monetary policy is transmitted to the economy because it affects the link between bank
+risks and credit provision. The model provides a unified explanation for several empirical
+facts documented in the literature. Our results highlight the importance of incorporating
+endogenous risk interactions into the analysis of monetary transmission through the
+banking sector. 
+
+[Latest draft](/assets/files/EBRLCMP.pdf). 
 
 #### Migration, Culture, and Long-Run Development: Evidence from Brazil’s German Colonies
 Draft available upon request.  

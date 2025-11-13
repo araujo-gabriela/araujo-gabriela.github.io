@@ -6,8 +6,7 @@ permalink: /research/
 
 ### Work in Progress
 
-#### The effects of excess reserves on the transmission of monetary policy 
-Draft available upon request.
+#### The relationship between money growth and inflation: a theory
 
 #### Endogenous Bank Risks and the Lending Channel of Monetary Policy 
 with [David Rivero](https://sites.google.com/site/davidriveroleiva/home) and [Hugo Rodriguez Mendizabal](https://sites.google.com/barcelonagse.eu/hugorodriguezmendizabal/home) 
@@ -20,7 +19,7 @@ facts documented in the literature. Our results highlight the importance of inco
 endogenous risk interactions into the analysis of monetary transmission through the
 banking sector. 
 
-[Latest draft](/assets/files/EBRLCMP.pdf). 
+[Latest draft](/assets/files/EBRLCMP112025.pdf). 
 
 #### Migration, Culture, and Long-Run Development: Evidence from Brazil’s German Colonies
 This paper examines the long-term impact of early settlers on economic prosperity.
@@ -37,7 +36,7 @@ structural shifts away from agriculture and toward human capital-intensive indus
 These findings highlight the enduring influence of early skilled immigration on
 local development.
 
-[Latest draft](/assets/files/GAraujoMCLRD300625Draft.pdf)
+[Latest draft](/assets/files/MCLRD062025.pdf)
 
 #### The Impact of Work Sponsor Visas on Earnings, Productivity and Sorting
 with Cecilia Karmel

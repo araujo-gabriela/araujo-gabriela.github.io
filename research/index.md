@@ -19,7 +19,7 @@ facts documented in the literature. Our results highlight the importance of inco
 endogenous risk interactions into the analysis of monetary transmission through the
 banking sector. 
 
-[Latest draft](/assets/files/EBRLCMP.pdf). 
+[Latest draft](/assets/files/EBRLCMP - 251215.pdf). 
 
 #### Migration, Culture, and Long-Run Development: Evidence from Brazil’s German Colonies
 Draft available upon request.  

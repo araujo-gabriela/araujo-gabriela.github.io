@@ -11,13 +11,8 @@ Draft available upon request.
 #### Endogenous Bank Risks and the Lending Channel of Monetary Policy 
 with [David Rivero](https://sites.google.com/site/davidriveroleiva/home) and [Hugo Rodriguez Mendizabal](https://sites.google.com/barcelonagse.eu/hugorodriguezmendizabal/home) 
 
-We develop a general equilibrium banking model in which liquidity, credit and solvency
-risks are endogenously connected to banks’ lending decisions. In this framework,
-monetary policy is transmitted to the economy because it affects the link between bank
-risks and credit provision. The model provides a unified explanation for several empirical
-facts documented in the literature. Our results highlight the importance of incorporating
-endogenous risk interactions into the analysis of monetary transmission through the
-banking sector. 
+This paper develops a general equilibrium banking model where lending and payment flows endogenously link credit, liquidity, and solvency risks. Banks issue deposits at loan origination. As deposits circulate, reserve settlement creates liquidity exposure and repayment shortfalls generate credit and solvency risks. These risks are jointly determined by credit provision and bound balance sheet expansion at an internally determined protability threshold rather than an external funding or capital limit. We present an application of the theory that provides a new look to the bank lending channel where monetary policy operates through the endogenous generation of bank risks. Our quantitative results align with empirical observations, including declines in deposit growth after monetary policy
+tightening and its dierent impact on lending depending on the balance sheet strength of banks as well as the relation of funding costs in interbank markets with liquidity and solvency ratios.
 
 [Latest draft](/assets/files/EBRLCMP260116.pdf)
 

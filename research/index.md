@@ -19,7 +19,7 @@ facts documented in the literature. Our results highlight the importance of inco
 endogenous risk interactions into the analysis of monetary transmission through the
 banking sector. 
 
-[Latest draft](/assets/files/EBRLCMP - 260116.pdf). 
+[Latest draft](/assets/files/EBRLCMP260116.pdf). 
 
 #### Migration, Culture, and Long-Run Development: Evidence from Brazil’s German Colonies
 This paper examines the long-term impact of early settlers on economic prosperity. Specifically, this paper investigates the long-term economic impact of 19th-century German immigration to southern Brazil, focusing on how early human capital shocks shaped development in a largely undeveloped region. Exploiting spatial variation in proximity to historical German settlements, I find that municipalities closer to these colonies exhibit significantly higher current literacy rates and income levels. The empirical strategy combines a quasi-natural experiment with robustness checks, placebo tests, and a comparative analysis with Italian settlement areas to support causal interpretation. I show that literacy is a key mediating channel, and that historical proximity to German colonies is associated with structural shifts away from agriculture and toward human capital-intensive industries. These findings highlight the enduring influence of early skilled immigration on local development.

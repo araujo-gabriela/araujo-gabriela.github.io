@@ -10,15 +10,15 @@ Completed and scheduled courses.
 
 # Instructor
 
-*Geospatial Tools for Development: Data and Inference* (2025) Practical Instructor for Professor [Andre Groeger](https://sites.google.com/site/andregroeger/), BSE (Summer School)
+*Geospatial Tools for Development: Data and Inference* (2025, 2026) Practical Instructor for Professor [Andre Groeger](https://sites.google.com/site/andregroeger/), BSE (Summer School)
 
-*Mathemathics Brush Up* (2024, 2025) Instructor, BSE (Master)
+*Mathemathics Brush Up* (2024, 2025, 2026) Instructor, BSE (Master)
 
 *Matlab* (2026) Instructor, Universitat Autonoma de Barcelona (International Doctorate in Economic Analysis; PhD)
 
 *Python* (2025) Instructor, Universitat Autonoma de Barcelona (International Doctorate in Economic Analysis; PhD)
 
-*Reinforcement* (2024, 2025) Instructor for Professors [Lídia Farré](https://sites.google.com/site/lidiafarre78/home), [Ada Ferrer-i-Carbonell](https://sites.google.com/view/adaferrer-i-carbonell) and [Joan Llull](https://joanllull.github.io/index.htm), BSE (Master)
+*Reinforcement* (2024, 2025, 2026) Instructor for Professors [Lídia Farré](https://sites.google.com/site/lidiafarre78/home), [Ada Ferrer-i-Carbonell](https://sites.google.com/view/adaferrer-i-carbonell) and [Joan Llull](https://joanllull.github.io/index.htm), BSE (Master)
 
 *Stata* (2025) Instructor, Universitat Autonoma de Barcelona (International Doctorate in Economic Analysis; PhD)
 

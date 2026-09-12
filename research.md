@@ -6,8 +6,6 @@ permalink: /research/
 
 ### Work in Progress
 
-#### The relationship between money growth and inflation: a theory
-
 #### Endogenous Bank Risks and the Lending Channel of Monetary Policy 
 with [David Rivero](https://sites.google.com/site/davidriveroleiva/home) and [Hugo Rodriguez Mendizabal](https://sites.google.com/barcelonagse.eu/hugorodriguezmendizabal/home) 
 

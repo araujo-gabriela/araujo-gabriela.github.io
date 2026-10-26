@@ -5,7 +5,7 @@ title:
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img src="/assets/gabriela-photoprof.png" alt="Gabriela Araujo" style="width: 280px; height: 280px; border-radius: 50%; object-fit: cover;">
+  <img src="/assets/gabriela-photoprofnew.png" alt="Gabriela Araujo" style="width: 280px; height: 280px; border-radius: 50%; object-fit: cover;">
 
   <div>
    <p>I am an economist specializing in monetary policy, macro-finance, and financial stability, currently completing my PhD in Economics at the Universitat Autònoma de Barcelona and Barcelona School of Economics. I have five years of central banking experience at the Reserve Bank of Australia (RBA), where I worked across the Financial Stability and International departments, contributing to policy analysis, empirical research, and briefing for senior leadership and international bodies.</p>

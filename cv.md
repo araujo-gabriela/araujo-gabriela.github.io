@@ -60,7 +60,7 @@ Monetary economics, banking, finance, and applied microeconometrics.
 * **Endogenous Bank Risks and the Lending Channel of Monetary Policy**, with David Rivero Leiva and Hugo Rodríguez Mendizábal.
 * **Migration, Culture, and Long-Run Development: Evidence from Brazil’s German Colonies**.
 * **Money Growth, Credit Allocation, and Inflation Regimes**.
-* **Synthetic Risk Transfers: Effects on Financial Fragility and Redistribution**, with Antonio Villani.
+* **Insuring Bank Loans: Capital Relief, Money Creation and Redistribution**, with Antonio Villani.
 * **The Impact of Work Sponsor Visas on Earnings, Productivity and Sorting**, with Cecilia Karmel.
 
 ---
@@ -85,7 +85,7 @@ Monetary economics, banking, finance, and applied microeconometrics.
 
 ### Seminar & Conference Presentations
 
-* **2026:** Bellaterra Macro Club (UAB), BSE PhD Jamboree
+* **2026:** Bellaterra Macro Club (UAB), BSE PhD Jamboree, Financial Intermediation Network of European Studies (FINEST) Autumn Workshop
 * **2025:** Madrid Mountain Macro Conference (Poster), ENTER Fall Presentations (Toulouse School of Economics), ENTER Jamboree (Stockholm School of Economics), BSE PhD Jamboree, Bellaterra Macro Club (UAB), Bellaterra Applied Working Group (UAB)
 * **2024:** Bellaterra Macro Club (UAB)
 * **2023:** Bellaterra Macro Club (UAB)

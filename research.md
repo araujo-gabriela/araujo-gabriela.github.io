@@ -6,12 +6,12 @@ permalink: /research/
 
 ### Work in Progress
 
-#### Endogenous Bank Risks and the Lending Channel of Monetary Policy 
+#### Endogenous Bank Risks 
 with [David Rivero](https://sites.google.com/site/davidriveroleiva/home) and [Hugo Rodriguez Mendizabal](https://sites.google.com/barcelonagse.eu/hugorodriguezmendizabal/home) 
 
-This paper develops a general equilibrium banking model where credit creation and payment flows endogenously link credit, liquidity, and solvency risks. Banks issue deposits at loan origination. As deposits circulate, reserve settlement creates liquidity exposure and repayment shortfalls generate credit and solvency risk. These risks are jointly determined by credit provision and bound balance sheet expansion at an internally determined profitability threshold rather than an external funding or capital limit. We present an application of the theory that provides a new look to the bank lending channel where monetary policy operates through the pricing of bank liabilities, compressing margins and curbing credit. Our quantitative results align with empirical observations, including comovement of policy rates with deposit spreads and net interest margins and a decline in deposit growth after tightening. The mechanism speaks to policy: calibrating liquidity and capital tools in isolation can blunt their effectiveness. 
+According to the empirical literature, bank distress is preceded by credit expansions and accompanied by the joint deterioration of liquidity, credit quality, and solvency, yet existing models treat these risks as separate frictions or exogenous inputs. We build a general equilibrium model in which all three risks arise from a single decision: lending. In our mechanism, banks create deposits when they lend while payment flows across banks generate reserve-settlement needs (liquidity risk), determine the revenues from which borrowers repay (credit risk), and, through loan losses, erode capital (solvency risk). Expanding the balance sheet raises all three exposures, so credit supply is bounded by an internal risk–profitability trade-off. Calibrated to US data, the model also generates interbank premia that rise with borrowing and fall with capital, a bank lending channel that operates without deposit outflows and is stronger for less-capitalized banks, and a risk-taking channel with ex ante identical borrowers. 
 
-Policy Takeaway: Examines how bank liquidity, credit risk, and solvency interact to shape monetary transmission, providing insights for macroprudential policy design and central bank liquidity frameworks.
+Policy Takeaway: Examines how bank liquidity, credit risk, and solvency interact to shape monetary transmission, providing insights for macroprudential policy design.
 
 [Latest draft](/assets/files/EBRLCMP260806.pdf)
 
